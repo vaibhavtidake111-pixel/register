@@ -1,15 +1,10 @@
-{
-  "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
-  "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
-    }
+"openrepos.org": {
+  "kubecell": {
+    "repo": "https://github.com/taosher/KubeCell",
+    "target": "kubecell.pages.dev"
   },
-  "openrepos.sh": {},
-  "repos.one": {},
-  "sourcepage.io": {},
-  "sourcepage.org": {},
-  "sourcepage.sh": {}
+  "telega-yt-grow": {
+    "repo": "https://github.com/vaibhavtidake111-pixel/telegram-youtube-verifier",
+    "target": "YOUR-APP-HOSTNAME"
+  }
 }
